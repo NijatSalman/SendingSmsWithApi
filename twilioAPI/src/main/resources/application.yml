@@ -1,4 +1,4 @@
-twilio:
-  account_sid: ACf1fa2418202b09da193b1142a8a80cda
-  auth_token: 23157139cd7147b1b7e9a27cb268134d
-  trial_number: +17744589234
+#twilio:
+#  account_sid:
+#  auth_token:
+#  trial_number: 
