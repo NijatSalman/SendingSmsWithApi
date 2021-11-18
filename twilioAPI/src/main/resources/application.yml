@@ -1,4 +1,5 @@
 #twilio:
 #  account_sid:
 #  auth_token:
-#  trial_number: 
+#  trial_number:
+# fill them from twilio website
